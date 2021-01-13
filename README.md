@@ -29,6 +29,7 @@
 
 - [About the Project](#about-the-project)
   - [Built With](#built-with)
+  - [Angular.js](#angular.js)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
@@ -45,17 +46,16 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need.
+It just a real simple, real good password generator. Why spend that much energy coming up with passwords you are ultimately gonna forget. Let me take the guess work out of the perfect password for you. Plus I get even more Angular 10+ experience a win win for us all.
+
+Thanks!
 
 Here's why:
 
-- Your time should be focused on creating something amazing. A project that solves a problem and helps others
-- You shouldn't be doing the same tasks over and over like creating a README from scratch
-- You should element DRY principles to the rest of your life :smile:
+- Thinking of passwords is a drag
+- Forgetting passwords is a drag
+- Getting hacked even bigger drag
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue.
-
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
 ### Built With
 
@@ -65,29 +65,32 @@ This section should list any major frameworks that you built your project using.
 - [![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=Angular)](https://angular.io/docs)
 - [![ReactiveX](https://img.shields.io/badge/-ReactiveX-black?style=flat-square&logo=reactivex)](http://reactivex.io/)
 
+
+### Angular.js
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.5.
 
-## Development server
+#### Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
+#### Code scaffolding
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
+#### Build
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
-## Running unit tests
+#### Running unit tests
 
 Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
+#### Running end-to-end tests
 
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
-## Further help
+#### Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
