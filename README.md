@@ -7,7 +7,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/JoshSevy/ng-password-generator">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <!-- <img src="images/logo.png" alt="Logo" width="80" height="80"> -->
   </a>
 
   <h3 align="center">Password Generator</h3>
@@ -44,7 +44,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![Password Generator](https://media.giphy.com/media/rtE5SAXZIEvefOJe7X/giphy.gif)
 
 It just a real simple, real good password generator. Why spend that much energy coming up with passwords you are ultimately gonna forget. Let me take the guess work out of the perfect password for you. Plus I get even more Angular 10+ experience a win win for us all.
 
