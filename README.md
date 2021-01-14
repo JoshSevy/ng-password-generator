@@ -64,6 +64,7 @@ This section should list any major frameworks that you built your project using.
 - [![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript&logoColor=ffff3f)](https://www.typescriptlang.org)
 - [![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=Angular)](https://angular.io/docs)
 - [![ReactiveX](https://img.shields.io/badge/-ReactiveX-black?style=flat-square&logo=reactivex)](http://reactivex.io/)
+- [![Bulma](https://img.shields.io/badge/-Bulma-black?style=flat-square&logo=bulma)](https://bulma.io)
 
 
 ### Angular.js
@@ -213,9 +214,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- Tech Tags
 
 ![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript&logoColor=ffff3f)
-
 ![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=Angular)
-
 ![ReactiveX](https://img.shields.io/badge/-ReactiveX-black?style=flat-square&logo=reactivex)
+![Bulma](https://img.shields.io/badge/-Bulma-black?style=flat-square&logo=bulma)
 
 -->
